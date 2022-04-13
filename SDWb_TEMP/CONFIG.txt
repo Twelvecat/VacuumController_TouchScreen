@@ -9,6 +9,6 @@ RA=5A;
 EL_RS232;
 RC=00;
 RD=00;
-RE=01;
+RE=03;
 R30=10;
 FRM_DLY=02;
